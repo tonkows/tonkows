@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanittha Somboon</h1>
+<h1 align="center">Hi 👋, I'm Kanittha Somboon (Tonkow) </h1>
 - 👨‍💻 All of my projects are available at [https://portfolio-kanittas.vercel.app/](https://portfolio-kanittas.vercel.app/)
 
 - 📫 How to reach me **s.kanittha2002@gmail.com**
